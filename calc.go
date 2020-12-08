@@ -25,3 +25,7 @@ func Div(x, y int) int {
 func Square(x int) int {
 	return x * x
 }
+
+func Test(x int) int {
+	return 100
+}
